@@ -37,7 +37,7 @@
 
 ### 📫 Contact / 联系方式
 
-- GitHub: [@여기에-깃허브-아이디](https://github.com/)
+- GitHub: [aseo13yeon-kgu](https://github.com/)
 
 ---
 
