@@ -17,6 +17,19 @@
 
 ---
 
+### 🎖️ Badges
+
+<p align="center">
+  <img src="https://img.shields.io/badge/University-Kyonggi-C8102E?style=flat-square" />
+  <img src="https://img.shields.io/badge/Major-Chinese%20Language%20%26%20Literature-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Language-한국어-brightgreen?style=flat-square" />
+  <img src="https://img.shields.io/badge/Language-中文-red?style=flat-square" />
+  <img src="https://img.shields.io/badge/Interest-C--Drama-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Interest-成语-yellow?style=flat-square" />
+</p>
+
+---
+
 ### 💫 관심사 / 兴趣爱好
 
 | 한국어 | 中文 |
@@ -37,6 +50,14 @@
 
 ---
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aseo13yeon-kgu&show_icons=true&theme=radical&hide_title=true" alt="GitHub Stats" />
+</p>
+
+---
+
 ### 📫 Contact / 联系方式
 
 - GitHub: [aseo13yeon-kgu](https://github.com/)
@@ -45,4 +66,8 @@
 
 <p align="center">
   감사합니다! / 谢谢观看！ ⭐
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aseo13yeon-kgu&label=Profile%20views&color=blueviolet&style=flat" alt="Profile views" />
 </p>
