@@ -1,16 +1,46 @@
-## Hi there 👋
+<h1 align="center">안녕하세요! 안서연입니다 👋</h1>
+<h3 align="center">你好！我是安敍娫 👋</h3>
 
-<!--
-**aseo13yeon-kgu/aseo13yeon-kgu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  경기대학교 중어중문전공 3학년 재학 중 🎓 <br/>
+  京畿大学 中语中文专业 大三学生 🎓
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧑‍🎓 About Me / 关于我
+
+- 🏫 **경기대학교(京畿大学)** 중어중문전공(中语中文专业) 3학년
+- 📛 이름 / 姓名: **안서연 (安敍娫)**
+- 🇨🇳 중국 드라마 보는 것을 좋아해요 / 喜欢看中国电视剧
+- 📖 사자성어에 관심이 많아요 / 对四字成语很感兴趣
+
+---
+
+### 💫 관심사 / 兴趣爱好
+
+| 한국어 | 中文 |
+|---|---|
+| 중국 드라마 감상 | 观看中国电视剧 |
+| 사자성어 공부 | 学习四字成语 |
+| 중국어 문화 탐구 | 探索中国语言与文化 |
+
+---
+
+### 📝 오늘의 사자성어 / 今日成语
+
+> **温故知新 (온고지신)**  
+> 옛것을 익히고 그것을 통해 새로운 것을 안다.  
+> 温习旧知识，从而获得新的理解。
+
+---
+
+### 📫 Contact / 联系方式
+
+- GitHub: [@여기에-깃허브-아이디](https://github.com/)
+
+---
+
+<p align="center">
+  감사합니다! / 谢谢观看！ ⭐
+</p>
